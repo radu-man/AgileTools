@@ -9,7 +9,7 @@ const App: Component = () => {
       <header class={styles.header}>
         <img src={logo} class={styles.logo} alt="logo" />
         <p>
-          Edit <code>MotherChore </code> and save to reload.
+          Edit <code> MotherChore Test2 </code> and save to reload.
         </p>
         <a
           class={styles.link}
